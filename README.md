@@ -11,11 +11,16 @@ Object-oriented Programming using python
 
 
 ## How to run
-on image
+on image:
+```
 python main.py --img-path /path/to/your/image
-
-on camera video
+```
+on camera video:
+```
 python main.py --video 0
+```
 
 ## There is a very insteresting example too!. It is about edges. If you want to run it, just run:
+```
 python main.py --video 1
+```
